@@ -1,2 +1,2 @@
-# Natual Language Processing
- This repo contains NLP models.
+# SPAM CLASSIFIER
+ This repo contains a Spam classification model.
